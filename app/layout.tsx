@@ -1,6 +1,6 @@
 import "./globals.css";
-import Header from '@/components/header'; // Make sure this matches your filename (header.tsx or Header.tsx)
-import Footer from '@/components/footer'; // Make sure this matches your filename (footer.tsx or Footer.tsx)
+import Header from '@/components/Header'; // Make sure this matches your filename (header.tsx or Header.tsx)
+import Footer from '@/components/Footer'; // Make sure this matches your filename (footer.tsx or Footer.tsx)
 
 export default function RootLayout({
   children,
