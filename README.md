@@ -2,7 +2,7 @@
 
 A personal portfolio website built with Next.js, TypeScript and Tailwind CSS for BYU-Idaho WDD 430.
 
-**Live site:** https://wdd430-portfolio-sepia.vercel.app/
+**Live site:** (https://wdd430-portfolio-1b3r-git-main-clive12.vercel.app/)
 
 ## Features
 
